@@ -23,3 +23,4 @@ linki:
 okladka: "/uploads/wp17.png"
 
 ---
+Na dobry początek ostatniego tygodnia listopada - WordPressowe nowości 🦉😍  
