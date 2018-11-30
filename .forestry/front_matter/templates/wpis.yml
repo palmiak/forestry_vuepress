@@ -19,5 +19,8 @@ fields:
 - type: file
   name: okladka
   label: Okładka
+- type: datetime
+  name: date
+  label: Data
 pages:
 - numery/wordpressowka-17.md
