@@ -1,0 +1,21 @@
+---
+label: Wpis
+hide_body: false
+is_partial: false
+fields:
+- type: text
+  name: tytul
+  label: Tytuł
+- type: field_group_list
+  label: Linki
+  name: linki
+  fields:
+  - type: textarea
+    name: opis
+    label: Opis
+  - type: text
+    name: url
+    label: Url
+- type: file
+  name: okladka
+  label: Okładka
